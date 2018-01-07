@@ -4,7 +4,7 @@ Active Rectifier with LT4320
 
 The KiCad files.
 
-Schematics: https://github.com/bersch/ideal-rectifier-lt4320/blob/master/ideal-rectifier-lt4320-2.pdf
+Schematics: https://github.com/bersch/ideal-rectifier-lt4320/blob/master/ideal-rectifier-lt4320.pdf
 
 4LayerPCB: https://github.com/bersch/ideal-rectifier-lt4320/blob/master/pcb.png
 
