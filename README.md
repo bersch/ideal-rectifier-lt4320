@@ -2,7 +2,7 @@ Active Rectifier with LT4320
 ============================
 
 
-The KiCad files will be published as soon as possible.
+The KiCad files, schematic, gerber.
 
 For more information please refer to 
 
